@@ -280,3 +280,77 @@ header p{
     color:#2F3E46;
 
 }
+/* ===========================
+   Unit 7 Theme - Environment
+=========================== */
+
+
+.unit7-header{
+
+    background:linear-gradient(135deg,#95D5B2,#D8F3DC);
+
+    text-align:center;
+
+    padding:60px 20px;
+
+    color:#1B4332;
+
+}
+
+
+.unit7-header h1{
+
+    color:#1B4332;
+
+}
+
+
+.unit7-header p{
+
+    color:#2D6A4F;
+
+}
+
+
+
+.unit7-header .unit-image{
+
+    width:300px;
+
+    height:180px;
+
+    object-fit:cover;
+
+    border-radius:20px;
+
+    margin-bottom:25px;
+
+    box-shadow:0 8px 20px rgba(0,0,0,.15);
+
+}
+
+
+
+/* Unit 7 buttons */
+
+.unit7-header + nav a:hover{
+
+    color:#40916C;
+
+}
+
+
+.unit7-button{
+
+    background:#52B788;
+
+    color:white;
+
+}
+
+
+.unit7-button:hover{
+
+    background:#2D6A4F;
+
+}
