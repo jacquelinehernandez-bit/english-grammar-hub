@@ -257,3 +257,22 @@ gap:15px;
     margin-bottom:20px;
 
 }
+
+/* ---------- Unit Header Fix ---------- */
+
+header h1,
+header p{
+
+    color:white;
+
+}
+
+
+.hero h2,
+.hero p,
+.card h3,
+.card p{
+
+    color:#2F3E46;
+
+}
